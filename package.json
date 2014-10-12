@@ -1,0 +1,25 @@
+{
+  "name": "superagent-ennd",
+  "version": "0.1.0",
+  "description": "superagent-no-arity-check =========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/undoZen/superagent-no-arity-check.git"
+  },
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/superagent-no-arity-check/issues"
+  },
+  "homepage": "https://github.com/undoZen/superagent-no-arity-check",
+  "dependencies": {
+    "superagent": ">=0.18.0"
+  },
+  "devDependencies": {
+    "tape": "^3.0.0"
+  }
+}
