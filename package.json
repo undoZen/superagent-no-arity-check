@@ -16,11 +16,8 @@
     "url": "https://github.com/undoZen/superagent-no-arity-check/issues"
   },
   "homepage": "https://github.com/undoZen/superagent-no-arity-check",
-  "peerDependencies": {
-    "superagent": ">=0.18.0 <1.0.0"
-  },
   "dependencies": {
-    "superagent": ">=0.18.0 <1.0.0"
+    "superagent": "^0.21.0"
   },
   "devDependencies": {
     "tape": "^3.0.0"
