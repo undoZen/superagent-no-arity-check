@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/undoZen/superagent-no-arity-check",
   "dependencies": {
-    "superagent": ">=0.18.0"
+    "superagent": ">=0.18.0 <1.0.0"
   },
   "devDependencies": {
     "tape": "^3.0.0"
